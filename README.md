@@ -1,2 +1,2 @@
 # hello-world
-just trying to understand thsi
+just trying to understand this
